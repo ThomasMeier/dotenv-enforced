@@ -10,3 +10,4 @@ repository = "https://github.com/thomasmeier/dotenv-enfored"
 description = "A `dotenv` implementation for Rust that also makes some vars required"
 
 [dependencies]
+regex = "0.2"
